@@ -12,6 +12,7 @@
 		8AD401131DA7218E00C36551 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AD401111DA7218E00C36551 /* Main.storyboard */; };
 		8AD401151DA7218E00C36551 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AD401141DA7218E00C36551 /* Assets.xcassets */; };
 		8AD401181DA7218E00C36551 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AD401161DA7218E00C36551 /* LaunchScreen.storyboard */; };
+		8AD401201DA8532800C36551 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8AD4011F1DA8532800C36551 /* pokemon.csv */; };
 		C0D9AA286772FCAC0DCABA7A /* Pods_PokeDex.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A163772BA6ED06C6683FF414 /* Pods_PokeDex.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		8AD401141DA7218E00C36551 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8AD401171DA7218E00C36551 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8AD401191DA7218E00C36551 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AD4011F1DA8532800C36551 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		A163772BA6ED06C6683FF414 /* Pods_PokeDex.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PokeDex.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -73,6 +75,7 @@
 				8AD4010F1DA7218E00C36551 /* ViewController.swift */,
 				8AD401111DA7218E00C36551 /* Main.storyboard */,
 				8AD401141DA7218E00C36551 /* Assets.xcassets */,
+				8AD4011F1DA8532800C36551 /* pokemon.csv */,
 				8AD401161DA7218E00C36551 /* LaunchScreen.storyboard */,
 				8AD401191DA7218E00C36551 /* Info.plist */,
 			);
@@ -153,6 +156,7 @@
 			files = (
 				8AD401181DA7218E00C36551 /* LaunchScreen.storyboard in Resources */,
 				8AD401151DA7218E00C36551 /* Assets.xcassets in Resources */,
+				8AD401201DA8532800C36551 /* pokemon.csv in Resources */,
 				8AD401131DA7218E00C36551 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
